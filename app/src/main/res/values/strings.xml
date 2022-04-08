@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="art"> 1800s Art Show</string>
+    <string name="bookreading"> Group Book Reading</string>
+    <string name="dj"> Drex DJ Party</string>
+    <string name="dros"> Dros Concert</string>
+    <string name="football"> Madrid vs Barcelona</string>
+    <string name="seminar"> Health Seminar</string>
+</resources>
